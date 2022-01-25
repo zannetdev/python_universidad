@@ -31,12 +31,3 @@ while inx > 0:
     if op == 4:
         inx = 0
         print("Saliendo...")
-# num = 3
-# if num > 0:
-#     print(num, "is a positive number.")
-# print("This is always printed.")
-
-# num = -1
-# if num > 0:
-#     print(num, "is a positive number.")
-# print("This is also always printed.")
